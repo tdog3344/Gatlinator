@@ -1,5 +1,16 @@
 #EXTM3U 
 #EXTINF:-1,-------GATLINATOR-------
+#EXTINF:0,USA:L USA Network 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2408.m3u8 
+#EXTINF:0,USA:L US TBS HD 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2421.m3u8 
+#EXTINF:0,USA:L US NICK 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2458.m3u8 
+#EXTINF:0,USA:L TNT 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2418.m3u8 
+#EXTINF:0,USA:L THE CW Central 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2412.m3u8 
+#EXTINF:0,USA:L SYFY USA http://192.99.149.20:8080/live/internal_stalker/internal_use/2425.m3u8 #EXTINF:0,USA:L SPIKE HD http://192.99.149.20:8080/live/internal_stalker/internal_use/2428.m3u8 #EXTINF:0,USA:L SHOWTIME HD http://192.99.149.20:8080/live/internal_stalker/internal_use/2438.m3u8 #EXTINF:0,USA:L PBS HD http://192.99.149.20:8080/live/internal_stalker/internal_use/2422.m3u8 #EXTINF:0,USA:L NBC HD http://192.99.149.20:8080/live/internal_stalker/internal_use/2420.m3u8 #EXTINF:0,USA:L NBC http://192.99.149.20:8080/live/internal_stalker/internal_use/2419.m3u8 #EXTINF:0,USA:L my9 http://192.99.149.20:8080/live/internal_stalker/internal_use/2423.m3u8 #EXTINF:0,USA:L Lifetime http://192.99.149.20:8080/live/internal_stalker/internal_use/2424.m3u8 #EXTINF:0,USA:L HBO Zone HD
 #EXTINF:-1,
 http://best-anonymous.eu:8000/get.php?username=filippo1&password=carmine&type=m3u
 #EXTINF:-1,
