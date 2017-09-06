@@ -533,3 +533,85 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle*
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1
+http://iptv.dguk.co.uk/get.php?username=lewis&password=lewis&type=m3u
+
+#EXTINF:-1
+http://tv.share1.la/get.php?username=paka41&password=bZcJ8Ghudq&type=m3u
+
+#EXTINF:-1
+http://iptv.freecamtv.com:8000/get.php?username=kduofd&password=spfreecamtv&type=m3u
+
+#EXTINF:-1
+http://149.202.199.11:8181/get.php?username=zixfrance&password=francezix&type=m3u
+
+#EXTINF:-1
+http://best-anonymous.eu:8000/get.php?username=filippo1&password=carmine&type=m3u
+
+#EXTINF:-1
+http://iptvbrasill.ddns.me:25463/get.php?username=sdojorge&password=4I6pC5Qe5h&type=m3u
+
+#EXTINF:-1
+http://lista.sv1.tv:25461/get.php?username=Helter&password=8SY92Caojt&type=m3u
+
+#EXTINF:-1
+http://thepk.co:2095/get.php?username=sammy123&password=sammy123&type=m3u
+
+#EXTINF:-1
+http://thepk.co:2095/get.php?username=juan1234&password=juan1234&type=m3u
+
+#EXTINF:-1,Frenchlover TV
+http://89.208.196.62:5050/udp/230.3.4.89:5678
+
+#EXTINF:-1,Frenchlover TV
+http://89.208.200.194:5050/udp/230.3.4.89:5678
+
+#EXTINF:-1,Frenchlover TV
+http://95.163.161.115:27500/udp/230.3.4.89:5678
+
+#EXTINF:-1,FrenchLover
+http://31.128.132.159:3371/udp/239.1.13.4:1234
+
+#EXTINF:-1,FrenchLover TV
+http://95.181.238.7:81/udp/239.191.254.251:15285
+
+#EXTINF:-1,Hustler HD
+http://46.23.145.242:1234/udp/239.1.6.35:1234
+
+#EXTINF:-1,Hustler HD
+http://5.100.73.204:52349/udp/224.3.23.26:1234
+
+#EXTINF:-1,Hustler HD
+http://109.237.144.202:81/udp/239.1.6.35:1234
+
+#EXTINF:-1,Hustler HD
+http://37.192.128.59:81/udp/239.1.6.35:1234
+
+#EXTINF:-1,Hustler HD
+http://s5.telek.me/1392/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1,Redlight HD
+http://s5.telek.me/1393/7458/5d16972e7b77e1a269c3bf5ac21690d8f3aa97b2
+
+#EXTINF:-1,Redlight_HD
+http://212.47.244.173:8081/live/redlighthd/chunks.m3u8
+
+#EXTINF:-1,Redlight HD
+http://176.123.217.23:8159/channels/play?id=3560
+
+
+
+
+
+
+
+
+
+
+
