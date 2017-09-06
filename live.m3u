@@ -533,3 +533,23 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle*
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+
+
+
+
+#EXTINF:-1,USA: ABC Spark HD
+http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15243.ts
+#EXTINF:-1,USA: CHCH HD
+http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/17854.ts
+#EXTINF:-1,USA: CP24 HD
+http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/16821.ts
+#EXTINF:-1,USA: CTV 2 Vancover Island
+http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/17853.ts
+#EXTINF:-1,USA: CityTV Vancouver
+http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/16815.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/17856.ts
+
+
+
+
