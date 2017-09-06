@@ -533,3 +533,28 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle*
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+
+#EXTINF:-1,US:  HBO Zone HD
+http://ckingiptv.tk:8000/live/burns/burns/27248.ts
+#EXTINF:-1,US: A and E TV HD
+http://ckingiptv.tk:8000/live/burns/burns/27249.ts
+#EXTINF:-1,US: ABC
+http://ckingiptv.tk:8000/live/burns/burns/27250.ts
+#EXTINF:-1,US: AFN SPORTS
+http://ckingiptv.tk:8000/live/burns/burns/27251.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://ckingiptv.tk:8000/live/burns/burns/27252.ts
+#EXTINF:-1,US: AMC HD
+http://ckingiptv.tk:8000/live/burns/burns/27253.ts
+#EXTINF:-1,US: Animal Planet
+http://ckingiptv.tk:8000/live/burns/burns/27254.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://ckingiptv.tk:8000/live/burns/burns/27255.ts
+#EXTINF:-1,US: Bravo
+http://ckingiptv.tk:8000/live/burns/burns/27256.ts
+#EXTINF:-1,US: BTN Sport HD
+http://ckingiptv.tk:8000/live/burns/burns/27257.ts
+#EXTINF:-1,US: CBS HD/ NFL Sunday Ticket 5
+http://ckingiptv.tk:8000/live/burns/burns/27258.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://ckingiptv.tk:8000/live/burns/burns/27259.ts
