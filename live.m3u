@@ -1,480 +1,364 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",* Fluxus TV
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free World IPTV
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
-http://sc9106.xpx.pl:9106/
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.05.2017
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif" group-title="WORLD NEWS",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="WORLD NEWS",Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singapore.mfa.gov.ua/mediafiles/sites/singapore/images/articles/tmbs/CNA_logo-tmb-270x180.jpg" group-title="WORLD NEWS",Channel NewsAsia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pumamedia.com.au/DW_English.jpg" group-title="WORLD NEWS",Deutsche Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-7Xjq8QzxxS0/WTEG5Ex_DII/AAAAAAAAAws/htyaTT4c7JcaDLXUFVrpOulxk2dyym46QCLcB/s1600/earthtv.png" group-title="WORLD NEWS",earthTV
-http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isetnews.com/wp-content/plugins/mediabox/TvLogos/France24TV.jpg" group-title="WORLD NEWS",France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/80.jpg" group-title="WORLD NEWS",NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="WORLD NEWS",Press TV
-http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televizyondizisi.com/wp-content/uploads/2015/10/TRTWORLDHABER.png" group-title="WORLD NEWS",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
-http://www.lengua.com/anthems/USA.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4547.jpg" group-title="USA",D23 TV
-http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/IH7rVcy.png" group-title="USA",Channel 7 [NoRoku]
-http://radio.7chan.org:8000/CH7
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-17.sinclairstoryline.com/resources/media/ba7cba73-6daf-416c-ab9d-622cc4ab616e-large16x9_TBDTV.jpg" group-title="USA",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg" group-title="USA",MeTV
-http://video.metv.com/metv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" group-title="USA",Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rokuguide.com/sites/default/files/wilderness-channel_0.png" group-title="USA",Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png" group-title="USA",Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" group-title="USA",Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA",Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Biz_LOGO.PNG" group-title="USA",Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png" group-title="USA",Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" group-title="USA",Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg" group-title="USA",The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="USA",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="USA",Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeart 80s Radio
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="USA",Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="USA",Z100 Radio
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nickeloden Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6957.jpeg" group-title="USA",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="USA",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-
-#EXTINF:-1  group-title="Sports",SKYNET SPORTS HD
-http://183.88.212.205:8010/play/a00r?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",SKYNET SPORTS-1
-http://183.88.212.205:8010/play/a02j?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",SKYNET SPORTS-2
-http://183.88.212.205:8010/play/a02k?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",SKYNET SPORTS-3
-http://183.88.212.205:8010/play/a02l?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",SKYNET SPORTS-4
-http://183.88.212.205:8010/play/a00a?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",SKYNET SPORTS-5
-http://183.88.212.205:8010/play/a00b?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",SKYNET SPORTS-6
-http://183.88.212.205:8010/play/a00c?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",FOX SPORTS 1
-http://183.88.212.205:8010/play/a02m?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",FOX SPORTS 2
-http://183.88.212.205:8010/play/a02n?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",FOX SPORTS 3
-http://183.88.212.205:8010/play/a02o?User-Agent=Mozilla/5.0
-
-#EXTINF:-1  group-title="Sports",EURO SPORTS
-http://183.88.212.205:8010/play/a00d?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",HBO HD
-http://183.88.212.205:8010/play/a00u?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",HBO
-http://183.88.212.205:8010/play/a00m?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",RED BY HBO
-http://183.88.212.205:8010/play/a03c?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",AXN
-http://183.88.212.205:8010/play/a00i?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",CINEMAX
-http://183.88.212.205:8010/play/a00n?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",WORLD MOVIES
-http://183.88.212.205:8010/play/a01k?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",SKYNET MOVIES HD
-http://183.88.212.205:8010/play/a00v?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",MYANMAR MOVIES
-http://183.88.212.205:8010/play/a01h?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",ZEE CINEMA ME
-http://183.88.212.205:8010/play/a01n?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",FOX ACTION MOVIES HD
-http://183.88.212.205:8010/play/a010?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",WORLD DRAMA
-http://183.88.212.205:8010/play/a01x?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",FOX MOVIES PREMIUM
-http://183.88.212.205:8010/play/a01l?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",STAR CHINESE MOVIES
-http://183.88.212.205:8010/play/a02e?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",ASIAN MOVIES
-http://183.88.212.205:8010/play/a01j?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",FOX CRIME
-http://183.88.212.205:8010/play/a020?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",NGC
-http://183.88.212.205:8010/play/a02x?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",NGC WILD
-http://183.88.212.205:8010/play/a02y?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",NAT GEO PEOPLE
-http://183.88.212.205:8010/play/a02z?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",DISCOVERY
-http://183.88.212.205:8010/play/a031?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",DISCOVERY HD WORLD
-http://183.88.212.205:8010/play/a00t?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",DISCOVERY SCIENCE
-http://183.88.212.205:8010/play/a034?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",DISCOVERY TLC
-http://183.88.212.205:8010/play/a032?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",ANIMAL PLANET
-http://183.88.212.205:8010/play/a030?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",OUTDOOR CHANNEL
-http://183.88.212.205:8010/play/a03d?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",BBC EARTH
-http://183.88.212.205:8010/play/a03e?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",DIVA UNIVERSAL
-http://183.88.212.205:8010/play/a03n?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",FYI 
-http://183.88.212.205:8010/play/a00k?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",CI
-http://183.88.212.205:8010/play/a00j?User-Agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="AsiaTV",CCTV 9
-http://183.88.212.205:8010/play/a02b?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",DMAX
-http://183.88.212.205:8010/play/a035?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",HISTORY HD
-http://183.88.212.205:8010/play/a00y?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",E!
-http://183.88.212.205:8010/play/a03o?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",BBC WORLD NEWS
-http://183.88.212.205:8010/play/a03g?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",CNN
-http://183.88.212.205:8010/play/a00l?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",SKY NEWS
-http://183.88.212.205:8010/play/a00e?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",CNBC
-http://183.88.212.205:8010/play/a02c?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",FRANCE 24
-http://183.88.212.205:8010/play/a02h?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",NHK WORLD TV
-http://183.88.212.205:8010/play/a028?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",NHK WORLD PREMIUM
-http://183.88.212.205:8010/play/a027?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",KBS WORLD
-http://183.88.212.205:8010/play/a025?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",CCTV 4
-http://183.88.212.205:8010/play/a02a?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",STAR WORLD
-http://183.88.212.205:8010/play/a021?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",PHOENIX INFO NEWS
-http://183.88.212.205:8010/play/a02i?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",BLOOMBERG
-http://183.88.212.205:8010/play/a02d?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",DISNEY JUNIOR ASIA
-http://183.88.212.205:8010/play/a02u?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",CARTOON NETWORK
-http://183.88.212.205:8010/play/a01b?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",SKYNET CARTOON
-http://183.88.212.205:8010/play/a01d?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",ANIMAX
-http://183.88.212.205:8010/play/a00h?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",NICKELODEON
-http://183.88.212.205:8010/play/a01f?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",DISNEY CHANNEL ASIA
-http://183.88.212.205:8010/play/a02t?User-Agent=Mozilla/5.0
-#EXTINF:-1 group-title="AsiaTV",DISNEY XD
-http://183.88.212.205:8010/play/a00x?User-Agent=Mozilla/5.0
-
-#EXTINF:-1,VIASAT Sports
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/1972.ts
-#EXTINF:0,24/7 Comedy Movies 
-http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335 
-#EXTINF:0,24/7 HD Movies 1 
-http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902 
-#EXTINF:0,24/7 HD Movies 2 
-http://93.174.95.125:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620 
-#EXTINF:0,24/7 Jackie Chan movies (1979-1990) 
-http://93.174.95.125:1935/edge/_definst_/gby01m6h4xd3lag/playlist.m3u8?wowzasessionid=1420169835 
-#EXTINF:0,24/7 Jackie Chan movies (1991-2008) 
-http://93.174.95.125:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797 
-#EXTINF:0,24/7 NCIS 
-http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488 
-#EXTINF:0,24/7 Various Movies 
-http://93.174.95.125:1935/edge/_definst_/hc992q7x7cz86t9/playlist.m3u8?wowzasessionid=1419873438 
-#EXTINF:0,A&E 
-http://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467 
-#EXTINF:0,ABC 22 HD 
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374 
-#EXTINF:0,ABC Family 
-http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244 
-#EXTINF:0,AMC 
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183 
-#EXTINF:0,beIN Sport (Spanish) 
-http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629 
-#EXTINF:0,beIN Sport (USA) 
-http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694 
-#EXTINF:0,BET 
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467 
-#EXTINF:0,Bravo 
-http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183 
-#EXTINF:0,Cartoon Network 
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8 
-#EXTINF:0,CBS HD (WHIO 7) 
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048 
-#EXTINF:0,CNN USA HD 
-http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421 
-#EXTINF:0,CNN USA SD 
-http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183 
-#EXTINF:0,Crime & Investigation 
-http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8 
-#EXTINF:0,CW 44 HD 
-http://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd/playlist.m3u8?wowzasessionid=1419879994 
-#EXTINF:0,CW 44 SD 
-http://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868 
-#EXTINF:0,Discovery Channel HD 
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569 
-#EXTINF:0,Disney Channel 
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412 
-#EXTINF:0,ESPN HD 
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934 
-#EXTINF:0,ESPN SD 
-http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013 
-#EXTINF:0,ESPN 2 HD 
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325 
-#EXTINF:0,ESPN 2 SD 
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722 
-#EXTINF:0,Food Network 
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022 
-#EXTINF:0,FOX 45 HD 
-http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680 
-#EXTINF:0,FOX 45 SD 
-http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438 
-#EXTINF:0,FOX News HD 
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821 
-#EXTINF:0,FOX News SD 
-http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587 
-#EXTINF:0,Golf Channel HD 
-http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504 
-#EXTINF:0,Hallmark HD 
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236 
-#EXTINF:0,HBO HD 
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571 
-#EXTINF:0,HBO SD 
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309 
-#EXTINF:0,HGTV 
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602 
-#EXTINF:0,History Channel (Europe) 
-http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700 
-#EXTINF:0,History Channel (USA) 
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554 
-#EXTINF:0,I.D. 
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729 
-#EXTINF:0,Lifetime HD 
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018 
-#EXTINF:0,MSNBC SD 
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712 
-#EXTINF:0,MTV 
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062 
-#EXTINF:0,Nat GEO HD 
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412 
-#EXTINF:0,Nat GEO SD 
-http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282 
-#EXTINF:0,NBC HD 
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103 
-#EXTINF:0,NBC SD 
-http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473 
-#EXTINF:0,NBC Sports Network HD 
-http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018 
-#EXTINF:0,NBC Sports Network SD 
-http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018 
-#EXTINF:0,Nickelodeon HD 
-http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368 
-#EXTINF:0,Nickelodeon SD 
-http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898 
-#EXTINF:0,OWN 
-http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658 
-#EXTINF:0,Oxygen 
-http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183 
-#EXTINF:0,Science 
-http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626 
-#EXTINF:0,Showtime HD 
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151 
-#EXTINF:0,Showtime SD 
-http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587 
-#EXTINF:0,Spike 
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529 
-#EXTINF:0,SyFy HD 
-http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403 
-#EXTINF:0,SyFy SD 
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403 
-#EXTINF:0,tbs 
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319 
-#EXTINF:0,TLC 
-http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929 
-#EXTINF:0,TNT HD 
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827 
-#EXTINF:0,TNT SD 
-http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929 
-#EXTINF:0,Travel Channel HD 
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887 
-#EXTINF:0,Travel Channel SD 
-http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887 
-#EXTINF:0,TruTV 
-http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955 
-#EXTINF:0,TV Land 
-http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401 
-#EXTINF:0,Univision 
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048 
-#EXTINF:0,USA Network 
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300 
-#EXTINF:0,VH-1 
-http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560 
-#EXTINF:-1 tvg-id="A&E Network" tvg-logo="aetv.png" group-title="U.S.A", A&E Network 
-http://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1434703106 
-#EXTINF:-1 tvg-id="ABC" tvg-logo="abc.png" group-title="U.S.A", ABC7 
-rtmpe://stream.hdcast.me/goLive playpath=abcsdsc_5rqwvg4t swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=abcsdsc&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#| 
-#EXTINF:-1 tvg-id="ABC" tvg-logo="abc.png" group-title="U.S.A", ABC7 
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374 timeou=10 
-#EXTINF:-1 tvg-id="ABC Family" tvg-logo="abcfamily.png" group-title="U.S.A", ABC Family 
-http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244 timeout=10 
-#EXTINF:-1 tvg-logo="amc.png" tvg-id="AMC" group-title="U.S.A", AMC NY 
-rtmpe://rtmp.zerocast.tv/goLive playpath=TfRQx7deUAuncJwM0472m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| 
-#EXTINF:-1 tvg-logo="cartoon.png" tvg-id="Cartoon Network" group-title="U.S.A", Cartoon Network 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8 
-#EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS" group-title="U.S.A", CBS 
-rtmpe://rtmp.zerocast.tv/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl= 
-#EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS" group-title="U.S.A", CBS 
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048 timeout=15 
-#EXTINF:-1 tvg-logo="cw11.png" tvg-id="CW" group-title="U.S.A", CW11 
-http://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868 
-#EXTINF:-1 tvg-logo="discovery.png" tvg-id="Discovery" group-title="U.S.A", Discovery Channel  
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569 
-#EXTINF:-1 tvg-logo="id.png" tvg-id="Investigation Discovery" group-title="U.S.A", Investergation Discovery  
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/playlist.m3u8?wowzasessionid=1420168729 
-#EXTINF:-1 tvg-id="NBC" tvg-logo="nbc.png" group-title="U.S.A", NBC 
-http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473 
-#EXTINF:-1 tvg-id="NBC" tvg-logo="nbc.png" group-title="U.S.A", NBC 
-rtmpe://stream.hdcast.me/goLive playpath=bcndnn_6wn6mfk4 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=bcndnn&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#| 
-#EXTINF:-1 tvg-id="The Oprah Winfrey Network" tvg-logo="own.png" group-title="U.S.A", Oprah Winfrey Network 
-http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658 
-#EXTINF:-1 tvg-id="Hallmark" tvg-logo="hallmark.png" group-title="U.S.A", Hallmark 
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236 
-#EXTINF:-1 tvg-id="History" tvg-logo="history.png" group-title="U.S.A", History Channel 
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A", HBO 
-rtmpe://rtmp.zerocast.tv/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/ 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A", HBO 
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A", HBO 
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571 
+#EXTINF:-1,----Heaven Sent----
+#EXTINF:-1,USA: BET
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3763.ts
+#EXTINF:-1,US: FOX
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3379.ts
+#EXTINF:-1,USA:E! HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2914.ts
+#EXTINF:-1,US: BRAVO
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2210.ts
+#EXTINF:-1,US: HBO ZONE
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2209.ts
+#EXTINF:-1,US: CNBC
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2203.ts
+#EXTINF:-1,US: Comedy C HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2215.ts
+#EXTINF:-1,US: Poker Central
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2214.ts
+#EXTINF:-1,US: ABC News
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2202.ts
+#EXTINF:-1,VIP USA| A&E 1080p-US
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8274.ts
+#EXTINF:-1,VIP USA| ABC 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8273.ts
+#EXTINF:-1,VIP USA| BET 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8272.ts
+#EXTINF:-1,VIP USA| Big Ten Network 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8271.ts
+#EXTINF:-1,VIP USA| Boomerang 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8270.ts
+#EXTINF:-1,VIP USA| Cartoon Network 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8269.ts
+#EXTINF:-1,VIP USA| CBS 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8268.ts
+#EXTINF:-1,VIP USA| CBSN 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8267.ts
+#EXTINF:-1,VIP USA| Cinemax 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8266.ts
+#EXTINF:-1,VIP USA| Cinemax Moremax 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8265.ts
+#EXTINF:-1,VIP USA| Cinemax Thrillermax 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8264.ts
+#EXTINF:-1,VIP USA| CNN 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8263.ts
+#EXTINF:-1,VIP USA| Crime and Investigation 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8262.ts
+#EXTINF:-1,VIP USA| Discovery Family 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8261.ts
+#EXTINF:-1,VIP USA| Discovery Science 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8260.ts
+#EXTINF:-1,VIP USA| Discovery Velocity 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8259.ts
+#EXTINF:-1,VIP USA| Disney Channel 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8258.ts
+#EXTINF:-1,VIP USA| Disney Jr 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8257.ts
+#EXTINF:-1,VIP USA| DIY Network 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8256.ts
+#EXTINF:-1,VIP USA| E! 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8255.ts
+#EXTINF:-1,VIP USA| Food Network 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8249.ts
+#EXTINF:-1,VIP USA| Fox 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8248.ts
+#EXTINF:-1,VIP USA| Freeform 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8245.ts
+#EXTINF:-1,VIP USA| GSN 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8244.ts
+#EXTINF:-1,VIP USA| Hallmark Movies & Mysteries 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8243.ts
+#EXTINF:-1,VIP USA| HBO 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8242.ts
+#EXTINF:-1,VIP USA| HBO 2 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8241.ts
+#EXTINF:-1,VIP USA| HBO Comedy 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8240.ts
+#EXTINF:-1,VIP USA| HBO Family 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8239.ts
+#EXTINF:-1,VIP USA| HBO Signature 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8238.ts
+#EXTINF:-1,VIP USA| HBO Zone 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8237.ts
+#EXTINF:-1,VIP USA| History Channel 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8236.ts
+#EXTINF:-1,VIP USA| IFC 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8235.ts
+#EXTINF:-1,VIP USA| Investigation Discovery 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8234.ts
+#EXTINF:-1,VIP USA| Lifetime 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8233.ts
+#EXTINF:-1,VIP USA| LMN 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8232.ts
+#EXTINF:-1,VIP USA| MTV 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8231.ts
+#EXTINF:-1,VIP USA| Nat Geo Wild 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8230.ts
+#EXTINF:-1,VIP USA| NBC 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8229.ts
+#EXTINF:-1,VIP USA| Nick JR 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8228.ts
+#EXTINF:-1,VIP USA| Offical Olympic Channel 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8227.ts
+#EXTINF:-1,VIP USA| OWN 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8226.ts
+#EXTINF:-1,VIP USA| Sec Network 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8225.ts
+#EXTINF:-1,VIP USA| Showtime 2 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8224.ts
+#EXTINF:-1,VIP USA| Showtime Family Zone 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8223.ts
+#EXTINF:-1,VIP USA| Spike 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8222.ts
+#EXTINF:-1,VIP USA| Sprout 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8221.ts
+#EXTINF:-1,VIP USA| Starz Kids and Family 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8220.ts
+#EXTINF:-1,VIP USA| Sundance TV 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8219.ts
+#EXTINF:-1,VIP USA| SyFy 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8218.ts
+#EXTINF:-1,VIP USA| TBS 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8217.ts
+#EXTINF:-1,VIP USA| Tennis Channel 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8216.ts
+#EXTINF:-1,VIP USA| The CW Network 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8215.ts
+#EXTINF:-1,VIP USA| Travel Channel 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8214.ts
+#EXTINF:-1,VIP USA| WWE 1080p
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8213.ts
+#EXTINF:-1,USA:USA Net
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2918.ts
+#EXTINF:-1,USA:Poker Central
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2921.ts
+#EXTINF:-1,USA:Nick
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2922.ts
+#EXTINF:-1,USA:NDTV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2924.ts
+#EXTINF:-1,USA: Starz Cinema
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2919.ts
+#EXTINF:-1,USA: SHOW TIME
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3764.ts
+#EXTINF:-1,USA: CNN
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3333.ts
+#EXTINF:-1,USA: CBS NEW,S
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3762.ts
+#EXTINF:-1,US: CW HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5108.ts
+#EXTINF:-1,US: Versus NBA HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5109.ts
+#EXTINF:-1,US: Cartoon Network-
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5110.ts
+#EXTINF:-1,US: TSC
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5111.ts
+#EXTINF:-1,US: ESPN Deportes-US
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5057.ts
+#EXTINF:-1,US: Comedy Central
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5058.ts
+#EXTINF:-1,US: TLC
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5059.ts
+#EXTINF:-1,US: TBS HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5061.ts
+#EXTINF:-1,US: SyFy US
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5062.ts
+#EXTINF:-1,US: Starz Edge
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5065.ts
+#EXTINF:-1,US: Starz East
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5063.ts
+#EXTINF:-1,US: STARS Cinema
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5064.ts
+#EXTINF:-1,US: NBC HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5074.ts
+#EXTINF:-1,US: Nickelodeon HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5076.ts
+#EXTINF:-1,US: Freeform HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5077.ts
+#EXTINF:-1,US: E!
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5078.ts
+#EXTINF:-1,US: LIFE TIME
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5079.ts
+#EXTINF:-1,US: History Channel
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5083.ts
+#EXTINF:-1,US: HGTV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5084.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5085.ts
+#EXTINF:-1,US: HBO Comdey
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5086.ts
+#EXTINF:-1,US: HBO East
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5087.ts
+#EXTINF:-1,US: HBO
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5088.ts
+#EXTINF:-1,US: HALLMARK
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5089.ts
+#EXTINF:-1,US: Fox 59 News
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3380.ts
+#EXTINF:-1,US: Discovery Science HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5091.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5092.ts
+#EXTINF:-1,US: Action Max HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/7528.ts
+#EXTINF:-1,US: AMC HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/7527.ts
+#EXTINF:-1,US: Cinemax HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/7525.ts
+#EXTINF:-1,US: CNN HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/7531.ts
+#EXTINF:-1,US: Showtime
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/7519.ts
+#EXTINF:-1,US: Spike HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/7520.ts
+#EXTINF:-1,US: USA Network
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/7517.ts
+#EXTINF:-1,US: TNT
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5093.ts
+#EXTINF:-1,US: Cinemax
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5094.ts
+#EXTINF:-1,US: CBSN HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5095.ts
+#EXTINF:-1,US: CBS News HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5096.ts
+#EXTINF:-1,US: CBS DRAMA
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5097.ts
+#EXTINF:-1,US: CBS ACTION
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5098.ts
+#EXTINF:-1,US: Animal Planet
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5101.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5102.ts
+#EXTINF:-1,US: AFN SPORTS
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5103.ts
+#EXTINF:-1,US: AFN PULSE
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5104.ts
+#EXTINF:-1,US: A&E
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5105.ts
+#EXTINF:-1,US: ABC News HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5106.ts
+#EXTINF:-1,US: 360 North
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5107.ts
+#EXTINF:-1,US: Showtime Extreme
+http://ipsatpro.com:8000/live/ramalho/ramalho/1539.ts
+#EXTINF:-1,US: Movie Mello TV
+http://ipsatpro.com:8000/live/ramalho/ramalho/1437.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.com:8000/live/ramalho/ramalho/1512.ts
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.com:8000/live/ramalho/ramalho/1517.ts
+#EXTINF:-1,US: NBCSN Golf
+http://ipsatpro.com:8000/live/ramalho/ramalho/1533.ts
+#EXTINF:-1,US: Bet HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1481.ts
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1485.ts
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.com:8000/live/ramalho/ramalho/1433.ts
+#EXTINF:-1,US: Bravo
+http://ipsatpro.com:8000/live/ramalho/ramalho/1482.ts
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.com:8000/live/ramalho/ramalho/1438.ts
+#EXTINF:-1,US: Starz East
+http://ipsatpro.com:8000/live/ramalho/ramalho/1450.ts
+#EXTINF:-1,US: TBS HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1506.ts
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.com:8000/live/ramalho/ramalho/1457.ts
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1507.ts
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1500.ts
+#EXTINF:-1,US: Crime and Investigation
+http://ipsatpro.com:8000/live/ramalho/ramalho/1511.ts
+#EXTINF:-1,US: Movie Time HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1499.ts
+#EXTINF:-1,US: RDS2
+http://ipsatpro.com:8000/live/ramalho/ramalho/1505.ts
+#EXTINF:-1,US: NBCSN
+http://ipsatpro.com:8000/live/ramalho/ramalho/1456.ts
+#EXTINF:-1,US: HSN
+http://ipsatpro.com:8000/live/ramalho/ramalho/1462.ts
+#EXTINF:-1,US: London Live
+http://ipsatpro.com:8000/live/ramalho/ramalho/1494.ts
+#EXTINF:-1,US: Star Chinese Movies
+http://ipsatpro.com:8000/live/ramalho/ramalho/1491.ts
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.com:8000/live/ramalho/ramalho/1524.ts
+#EXTINF:-1,US: AFN Movie HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1522.ts
+#EXTINF:-1,US: Kiro 7
+http://ipsatpro.com:8000/live/ramalho/ramalho/1520.ts
+#EXTINF:-1,US: HBO East
+http://ipsatpro.com:8000/live/ramalho/ramalho/1518.ts
+#EXTINF:-1,US: CBSN
+http://ipsatpro.com:8000/live/ramalho/ramalho/1521.ts
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1495.ts
+#EXTINF:-1,US: Ion HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1493.ts
+#EXTINF:-1,US: Willow Cricket
+http://ipsatpro.com:8000/live/ramalho/ramalho/1492.ts
+#EXTINF:-1,US: CNN Eng
+http://ipsatpro.com:8000/live/ramalho/ramalho/1443.ts
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.com:8000/live/ramalho/ramalho/1447.ts
+#EXTINF:-1,US: Cinemax
+http://ipsatpro.com:8000/live/ramalho/ramalho/1461.ts
+#EXTINF:-1,US: AMC HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1534.ts
+#EXTINF:-1,US: Life Time HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1460.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1487.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1488.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1489.ts
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.com:8000/live/ramalho/ramalho/1541.ts
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.com:8000/live/ramalho/ramalho/1540.ts
+#EXTINF:-1,US: ActionMAX US
+http://ipsatpro.com:8000/live/ramalho/ramalho/1527.ts
+#EXTINF:-1,US: Hallmark Channel
+http://ipsatpro.com:8000/live/ramalho/ramalho/1528.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1529.ts
+#EXTINF:-1,US: CTV Toronto HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.com:8000/live/ramalho/ramalho/1535.ts
+#EXTINF:-1,US: HBO Family
+http://ipsatpro.com:8000/live/ramalho/ramalho/1536.ts
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.com:8000/live/ramalho/ramalho/1537.ts
+#EXTINF:-1,US: Starz Cinema
+http://ipsatpro.com:8000/live/ramalho/ramalho/1538.ts
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1532.ts
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.com:8000/live/ramalho/ramalho/1464.ts
+#EXTINF:-1,US: Free Rom
+http://ipsatpro.com:8000/live/ramalho/ramalho/1465.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1466.ts
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.com:8000/live/ramalho/ramalho/1458.ts
+#EXTINF:-1,US: Thai CH8
+http://ipsatpro.com:8000/live/ramalho/ramalho/1463.ts
+#EXTINF:-1,US: World Fashion TV
+http://ipsatpro.com:8000/live/ramalho/ramalho/1432.ts
+#EXTINF:-1,US: TBS Channle
+http://ipsatpro.com:8000/live/ramalho/ramalho/1449.ts
+#EXTINF:-1,US: ABC
+http://ipsatpro.com:8000/live/ramalho/ramalho/1504.ts
+#EXTINF:-1,US: WGN 9 HD
+http://ipsatpro.com:8000/live/ramalho/ramalho/1515.ts
+#EXTINF:-1,US: TRT World
+http://ipsatpro.com:8000/live/ramalho/ramalho/1513.ts
+#EXTINF:-1,US: CBS
+http://ipsatpro.com:8000/live/ramalho/ramalho/1510.ts
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.com:8000/live/ramalho/ramalho/1501.ts
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.com:8000/live/ramalho/ramalho/1514.ts
