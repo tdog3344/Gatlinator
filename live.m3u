@@ -129,87 +129,130 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="USA",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
-#EXTINF:-1,USA: BET
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/3763.ts
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS HD
+http://183.88.212.205:8010/play/a00r?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-1
+http://183.88.212.205:8010/play/a02j?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-2
+http://183.88.212.205:8010/play/a02k?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-3
+http://183.88.212.205:8010/play/a02l?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-4
+http://183.88.212.205:8010/play/a00a?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-5
+http://183.88.212.205:8010/play/a00b?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-6
+http://183.88.212.205:8010/play/a00c?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",FOX SPORTS 1
+http://183.88.212.205:8010/play/a02m?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",EURO SPORTS
+http://183.88.212.205:8010/play/a00d?User-Agent=Mozilla/5.0
 
-#EXTINF:-1,US: FOX
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/3379.ts
-
-#EXTINF:-1,US: Fight Network
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/3219.ts
-
-#EXTINF:-1,US CBS Sports Network HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/3221.ts
-
-#EXTINF:-1,US Fox Sports 506 HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/3230.ts
-
-#EXTINF:-1,US NFL Channel HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/3220.ts
-
-#EXTINF:-1,US BYU Sports TV HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/3231.ts
-
-#EXTINF:-1,USA:E! HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2914.ts
-
-#EXTINF:-1,US: WWE Network
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2211.ts
-
-#EXTINF:-1,US: TSN 4
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2206.ts
-
-#EXTINF:-1,US: TSN 2
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2205.ts
-
-#EXTINF:-1,US: TSN 1
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2204.ts
-
-#EXTINF:-1,US: BRAVO
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2210.ts
-
-#EXTINF:-1,US: HBO ZONE
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2209.ts
-
-#EXTINF:-1,US: Fox Sports  2
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2213.ts
-
-#EXTINF:-1,US: Fox Sports  1
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2212.ts
-
-#EXTINF:-1,US: Fox Sports 2
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2208.ts
-
-#EXTINF:-1,US: Fox Sports 1
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2207.ts
-
-#EXTINF:-1,US: CNBC
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2203.ts
-
-#EXTINF:-1,US: FOX Deportes HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2217.ts
-
-#EXTINF:-1,US: TSN 5
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2322.ts
-
-#EXTINF:-1,US: TSN 3
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2321.ts
-
-#EXTINF:-1,US: ESPN
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2323.ts
-
-#EXTINF:-1,US: BEIN SPORT
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2320.ts
-
-#EXTINF:-1,US: ESPN 2 HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2331.ts
-#EXTINF:-1,US: NBC Golf HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2216.ts
-#EXTINF:-1,US: Comedy C HD
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2215.ts
-#EXTINF:-1,US: Poker Central
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2214.ts
-#EXTINF:-1,US: ABC News
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/2202.ts
-#EXTINF:-1,VIASAT Sports
-http://link.softiptv.com:2500/live/oAVVHHUBE8/Pv4Udykdg5/1972.
+#EXTINF:-1 group-title="AsiaTV",HBO HD
+http://183.88.212.205:8010/play/a00u?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",HBO
+http://183.88.212.205:8010/play/a00m?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",RED BY HBO
+http://183.88.212.205:8010/play/a03c?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",AXN
+http://183.88.212.205:8010/play/a00i?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CINEMAX
+http://183.88.212.205:8010/play/a00n?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",WORLD MOVIES
+http://183.88.212.205:8010/play/a01k?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",SKYNET MOVIES HD
+http://183.88.212.205:8010/play/a00v?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",MYANMAR MOVIES
+http://183.88.212.205:8010/play/a01h?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ZEE CINEMA ME
+http://183.88.212.205:8010/play/a01n?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX ACTION MOVIES HD
+http://183.88.212.205:8010/play/a010?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",WORLD DRAMA
+http://183.88.212.205:8010/play/a01x?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX MOVIES PREMIUM
+http://183.88.212.205:8010/play/a01l?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",STAR CHINESE MOVIES
+http://183.88.212.205:8010/play/a02e?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ASIAN MOVIES
+http://183.88.212.205:8010/play/a01j?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX CRIME
+http://183.88.212.205:8010/play/a020?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX FAMILY MOVIES
+http://183.88.212.205:8010/play/a01m?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NGC
+http://183.88.212.205:8010/play/a02x?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NGC WILD
+http://183.88.212.205:8010/play/a02y?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NAT GEO PEOPLE
+http://183.88.212.205:8010/play/a02z?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY
+http://183.88.212.205:8010/play/a031?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY HD WORLD
+http://183.88.212.205:8010/play/a00t?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY SCIENCE
+http://183.88.212.205:8010/play/a034?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY TLC
+http://183.88.212.205:8010/play/a032?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ANIMAL PLANET
+http://183.88.212.205:8010/play/a030?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",OUTDOOR CHANNEL
+http://183.88.212.205:8010/play/a03d?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",BBC EARTH
+http://183.88.212.205:8010/play/a03e?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DIVA UNIVERSAL
+http://183.88.212.205:8010/play/a03n?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FYI 
+http://183.88.212.205:8010/play/a00k?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CI
+http://183.88.212.205:8010/play/a00j?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CCTV 9
+http://183.88.212.205:8010/play/a02b?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DMAX
+http://183.88.212.205:8010/play/a035?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",HISTORY HD
+http://183.88.212.205:8010/play/a00y?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",E!
+http://183.88.212.205:8010/play/a03o?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",BBC WORLD NEWS
+http://183.88.212.205:8010/play/a03g?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CNN
+http://183.88.212.205:8010/play/a00l?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",SKY NEWS
+http://183.88.212.205:8010/play/a00e?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CNBC
+http://183.88.212.205:8010/play/a02c?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FRANCE 24
+http://183.88.212.205:8010/play/a02h?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NHK WORLD TV
+http://183.88.212.205:8010/play/a028?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NHK WORLD PREMIUM
+http://183.88.212.205:8010/play/a027?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",KBS WORLD
+http://183.88.212.205:8010/play/a025?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CCTV 4
+http://183.88.212.205:8010/play/a02a?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",STAR WORLD
+http://183.88.212.205:8010/play/a021?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",PHOENIX INFO NEWS
+http://183.88.212.205:8010/play/a02i?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",BLOOMBERG
+http://183.88.212.205:8010/play/a02d?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISNEY JUNIOR ASIA
+http://183.88.212.205:8010/play/a02u?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CARTOON NETWORK
+http://183.88.212.205:8010/play/a01b?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",SKYNET CARTOON
+http://183.88.212.205:8010/play/a01d?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ANIMAX
+http://183.88.212.205:8010/play/a00h?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NICKELODEON
+http://183.88.212.205:8010/play/a01f?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISNEY CHANNEL ASIA
+http://183.88.212.205:8010/play/a02t?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISNEY XD
+http://183.88.212.205:8010/play/a00x?User-Agent=Mozilla/5.0
